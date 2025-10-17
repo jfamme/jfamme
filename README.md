@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on ...
--- https://github.com/jfamme/Transcriber
+  - A simple web page that displays text transcribed from an image, by AI 
+    - https://github.com/jfamme/Transcriber
 
 <!--
 - 🌱 I’m currently learning ...
