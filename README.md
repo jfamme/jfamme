@@ -7,8 +7,11 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on ...
-  - A simple web page that displays text transcribed from an image, by AI 
-    - https://github.com/jfamme/Transcriber
+  - Some AI Vibe coding Experiments
+    - A simple web page that displays text transcribed by AI from an image: Covers simple typed text up to hand written notes of mine
+      - https://github.com/jfamme/Transcriber
+     
+    - ...
 
 <!--
 - 🌱 I’m currently learning ...
