@@ -8,6 +8,10 @@ Here are some ideas to get you started:
 -->
 - I’m currently working on...
 
+  - **Automation with Cypress**
+    - A simple example of the new cy.prompt from Cypress -- Uses plain language prompts to generate Cypress code
+      - https://github.com/jfamme/generic-001
+     
   
   - **Some AI Vibe coding Experiments**
     - A simple web page that displays text transcribed by AI from an image: Covers simple typed text up to hand written notes of mine
